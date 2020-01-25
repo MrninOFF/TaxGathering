@@ -1,2 +1,0 @@
-# TaxGathering
-Created with CodeSandbox
